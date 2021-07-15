@@ -1,6 +1,6 @@
 /*
 The Lion King - Stampede!
-by Jonty Graver - N10216944
+by Jonty Graver - #######
 
 This sketch is a mini-game developed to showcase Disney's The Lion King (1994)
 It is based around a major scene in the movie, where the main character, Simba, is forced
